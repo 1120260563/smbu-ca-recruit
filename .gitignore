@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 运行时输出（问题清单 / 清洗后数据 / 统计表），不入库
+data/output/
+
+# 系统
+.DS_Store
+Thumbs.db
